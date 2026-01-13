@@ -1,7 +1,7 @@
 # about me
 
 
-**g238128e** is a 　repository because its `README.md` (this file) appears on your GitHub profile.
+**g238128e** is a GitHub beginners
 
 - 🔭 I’m currently working on guraduation paper
 - 🌱 I’m currently learning AI and Program development
